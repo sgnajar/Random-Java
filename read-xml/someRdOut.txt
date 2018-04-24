@@ -1,0 +1,8 @@
+phylum	class	order	family	genus
+Proteobacteria	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Hyalangium
+Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halocella
+Firmicutes	Clostridia	Clostridiales	Clostridiaceae 4	Caminicella
+Firmicutes	Clostridia	Clostridiales	Defluviitaleaceae	Defluviitalea
+Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Robiginitomaculum
+Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichales_incertae_sedis	Fangia
+Acidobacteria	Acidobacteria_Gp1			Telmatobacter
